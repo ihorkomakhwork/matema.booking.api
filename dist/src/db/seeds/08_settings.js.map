@@ -1,0 +1,1 @@
+{"version":3,"file":"08_settings.js","sourceRoot":"","sources":["../../../../src/db/seeds/08_settings.ts"],"names":[],"mappings":";;;AAEO,KAAK,UAAU,IAAI,CAAC,IAAU;IACnC,+BAA+B;IAC/B,OAAO,MAAM,IAAI,CAAC,UAAU,CAAC;SAC1B,GAAG,EAAE;SACL,IAAI,CAAC;QACJ,uBAAuB;QACvB,OAAO,IAAI,CAAC,UAAU,CAAC,CAAC,MAAM,CAAC,EAAE,CAAC,CAAC;IACrC,CAAC,CAAC,CAAC;AACP,CAAC;AARD,oBAQC"}
